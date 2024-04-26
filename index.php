@@ -8,5 +8,10 @@
 <body>
     <h1>HEllo World !</h1>
     <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit aliquid doloremque maiores unde sint soluta, magni, accusantium dicta hic, praesentium pariatur nesciunt officiis expedita! Esse error mollitia qui voluptatibus? Sit?</p>
+    <ul>
+        <li>tanpa nama</li>
+        <li>tanpa nama</li>
+        <li>tanpa nama</li>
+    </ul>
 </body>
 </html>
